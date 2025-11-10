@@ -1,23 +1,40 @@
-<h1 align="center">Hi 👋, I'm Duc Anh Do</h1>
-<h3 align="center">A passionate full-stack developer from Viet Nam</h3>
+<h1 align="center">Hi 👋, I’m Duc Anh Do</h1>
+<h3 align="center">Full-stack developer • React • Angular • Node • .NET — from Vietnam</h3>
 
-- 🔭 I’m currently working on [EduSocial Webapp](https://github.com/ducanh2004-da/EduSocial-webapp)
+Hello! I build practical web products — especially AI-powered learning platforms, real-time features, and admin dashboards. I combine product thinking, clean code and pragmatic engineering to ship working software.
 
-- 🌱 I’m currently learning **Basic Testing Program(Jest,Mocha)**
+### 🔭 Featured project
+- **AI Instructor LMS** — [ducanh2004-da/EduSocial-webapp](https://github.com/ducanh2004-da/EduSocial-webapp)  
+  Building features like slide viewer, streaming chat, text-to-speech, lesson management and student experience.
 
-- 👯 I’m looking to collaborate on **Webapp/Website**
+### 🌱 Currently learning
+- Unit & integration testing (Jest, Mocha)  
+- Angular (expanding frontend skillset)  
+- .NET (backend & Web API)
 
-- 👨‍💻 All of my projects are available at [github](github)
+### 👯 Open to collaborate on
+- Web apps, SaaS, edtech, real-time features and product-focused projects.
 
-- 📝 I regularly write articles on [https://www.facebook.com/profile.php?id=100030532060562](https://www.facebook.com/profile.php?id=100030532060562)
+### 👨‍💻 Portfolio & writing
+- GitHub: https://github.com/ducanh2004-da  
+- Articles / posts: https://www.facebook.com/profile.php?id=100030532060562  
+- Resume: https://drive.google.com/file/d/1msOcjhrZfPW8CiHeHjrIfwjiKYrNfRFm/view?usp=sharing
 
-- 💬 Ask me about **NodeJS,ReactJS,PHP**
+### 💬 Key skills
+- Frontend: React, Angular, HTML/CSS, Bootstrap  
+- Backend: Node.js (Express), PHP (Laravel), .NET (Web API)  
+- Databases: MySQL, MSSQL, MongoDB  
+- Cloud / DevOps: AWS basics, CI/CD  
+- Testing: Jest, Mocha (learning)  
+- Extras: TTS/voice integration, streaming and real-time features
 
-- 📫 How to reach me **anhdott1@gmail.com**
+### 📫 Contact
+- Email: **anhdott1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1msOcjhrZfPW8CiHeHjrIfwjiKYrNfRFm/view?usp=sharing](https://drive.google.com/file/d/1msOcjhrZfPW8CiHeHjrIfwjiKYrNfRFm/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am fun ,teehee**
+### ⚡ About me
+- Focus on pragmatic, maintainable code and shipping value quickly.  
+- Recently expanded skills to **Angular** and **.NET** to become more versatile.  
+- Happy to join small teams or collaborate on startup projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
