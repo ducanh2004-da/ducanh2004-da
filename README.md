@@ -4,7 +4,7 @@
 Hello! I build practical web products — especially AI-powered learning platforms, real-time features, and admin dashboards. I combine product thinking, clean code and pragmatic engineering to ship working software.
 
 ### 🔭 Featured project
-- **AI Instructor LMS** — [ducanh2004-da/EduSocial-webapp](https://github.com/ducanh2004-da/EduSocial-webapp)  
+- **AI Instructor LMS**  
   Building features like slide viewer, streaming chat, text-to-speech, lesson management and student experience.
 
 ### 🌱 Currently learning
@@ -18,12 +18,12 @@ Hello! I build practical web products — especially AI-powered learning platfor
 ### 👨‍💻 Portfolio & writing
 - GitHub: https://github.com/ducanh2004-da  
 - Articles / posts: https://www.facebook.com/profile.php?id=100030532060562  
-- Resume: https://drive.google.com/file/d/1msOcjhrZfPW8CiHeHjrIfwjiKYrNfRFm/view?usp=sharing
+- Resume: [https://drive.google.com/file/d/1msOcjhrZfPW8CiHeHjrIfwjiKYrNfRFm/view?usp=sharing](https://portfolio-psi-bay-45.vercel.app/)
 
 ### 💬 Key skills
-- Frontend: React, Angular, HTML/CSS, Bootstrap  
+- Frontend: React, Angular, Tailwind, Bootstrap  
 - Backend: Node.js (Express), PHP (Laravel), .NET (Web API)  
-- Databases: MySQL, MSSQL, MongoDB  
+- Databases: MySQL, MSSQL, MongoDB, PostgreSQL  
 - Cloud / DevOps: AWS basics, CI/CD  
 - Testing: Jest, Mocha (learning)  
 - Extras: TTS/voice integration, streaming and real-time features
