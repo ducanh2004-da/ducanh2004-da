@@ -22,7 +22,7 @@ Hello! I build practical web products — especially AI-powered learning platfor
 
 ### 💬 Key skills
 - Frontend: React, Angular, Tailwind, Bootstrap  
-- Backend: Node.js (Express), PHP (Laravel), .NET (Web API)  
+- Backend: Node.js (Express, NestJS), PHP (Laravel), .NET (Web API)  
 - Databases: MySQL, MSSQL, MongoDB, PostgreSQL  
 - Cloud / DevOps: AWS basics, CI/CD  
 - Testing: Jest, Mocha (learning)  
