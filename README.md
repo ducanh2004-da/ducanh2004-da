@@ -18,7 +18,7 @@ Hello! I build practical web products — especially AI-powered learning platfor
 ### 👨‍💻 Portfolio & writing
 - GitHub: https://github.com/ducanh2004-da  
 - Articles / posts: https://www.facebook.com/profile.php?id=100030532060562  
-- Resume: [https://drive.google.com/file/d/1msOcjhrZfPW8CiHeHjrIfwjiKYrNfRFm/view?usp=sharing](https://portfolio-psi-bay-45.vercel.app/)
+- Resume: [My portfolio](https://portfolio-psi-bay-45.vercel.app/)
 
 ### 💬 Key skills
 - Frontend: React, Angular, Tailwind, Bootstrap  
