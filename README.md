@@ -65,6 +65,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducanh2004-da&layout=compact&theme=radical" height="150" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <i>Open to collaborate on web apps, SaaS, edtech, and product-focused startup projects!</i>
-</p>
