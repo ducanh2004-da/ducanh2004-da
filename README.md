@@ -1,54 +1,70 @@
-<h1 align="center">Hi 👋, I’m Duc Anh Do</h1>
-<h3 align="center">Full-stack developer • React • Angular • Node • .NET — from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Duc Anh Do</h1>
+<h3 align="center">Full-stack Developer | .NET • NodeJS • ReactJS • Angular</h3>
 
-Hello! I build practical web products — especially AI-powered learning platforms, real-time features, and admin dashboards. I combine product thinking, clean code and pragmatic engineering to ship working software.
-
-### 🔭 Featured project
-- **AI Instructor LMS**  
-  Building features like slide viewer, streaming chat, text-to-speech, lesson management and student experience.
-
-### 🌱 Currently learning
-- Unit & integration testing (Jest, Mocha)  
-- Angular (expanding frontend skillset)  
-- .NET (backend & Web API)
-
-### 👯 Open to collaborate on
-- Web apps, SaaS, edtech, real-time features and product-focused projects.
-
-### 👨‍💻 Portfolio & writing
-- GitHub: https://github.com/ducanh2004-da  
-- Articles / posts: https://www.facebook.com/profile.php?id=100030532060562  
-- Resume: [My portfolio](https://portfolio-psi-bay-45.vercel.app/)
-
-### 💬 Key skills
-- Frontend: React, Angular, Tailwind, Bootstrap  
-- Backend: Node.js (Express, NestJS), PHP (Laravel), .NET (Web API)  
-- Databases: MySQL, MSSQL, MongoDB, PostgreSQL  
-- Cloud / DevOps: AWS basics, CI/CD  
-- Testing: Jest, Mocha (learning)  
-- Extras: TTS/voice integration, streaming and real-time features
-
-### 📫 Contact
-- Email: **anhdott1@gmail.com**
-
-### ⚡ About me
-- Focus on pragmatic, maintainable code and shipping value quickly.  
-- Recently expanded skills to **Angular** and **.NET** to become more versatile.  
-- Happy to join small teams or collaborate on startup projects.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/oucang.606021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/oucang.606021" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@d.a.d3996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@d.a.d3996" height="30" width="40" /></a>
+<p align="center">
+  I'm a final-year IT student at HCMUTE, passionate about building practical, AI-powered web products. I combine product thinking, clean code, and pragmatic engineering to ship working software that delivers real value.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://portfolio-psi-bay-45.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-005571?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="mailto:anhdott1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-anhdott1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.facebook.com/oucang.606021" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.youtube.com/@d.a.d3996" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Watch_Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducanh2004-da&show_icons=true&locale=en&layout=compact" alt="ducanh2004-da" /></p>
+---
 
+### 🚀 Featured Projects
+* **[Learnify] AI-powered LMS:** An innovative learning management system featuring automated course generation from PDFs and an interactive 3D AI instructor. Built with streaming chat, text-to-speech, and hands-on interactive labs.
+* **[EduSocial] Educational Network:** A dynamic social platform for learners featuring an integrated AI chatbot capable of translating natural language directly into SQL queries.
 
-<!---
-ducanh2004-da/ducanh2004-da is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💼 Experience & Journey
+* **Future Cloud Junior (FCJ) @ AWS Vietnam:** Focused on deploying robust full-stack applications and leveraging cloud infrastructure best practices.
+* **Web Developer Intern @ Primas Group Inc:** Developed and optimized a Human Resource Management System utilizing Angular and .NET architecture.
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
+
+### 🌱 Currently Exploring
+* Diving deeper into **Machine Learning & Deep Learning** (Computer Vision, CNN models with OpenCV).
+* Applying **Unit & Integration Testing** (Jest, Mocha) for robust software delivery.
+* Refining **public speaking** skills to share technical knowledge and MC community events.
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ducanh2004-da&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducanh2004-da&layout=compact&theme=radical" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <i>Open to collaborate on web apps, SaaS, edtech, and product-focused startup projects!</i>
+</p>
